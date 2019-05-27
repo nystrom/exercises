@@ -14,7 +14,8 @@ fn use_foo(foo: Foo) {
 fn change_foo(foo: Foo) {
 }
 
-// DO NOT CHANGE THIS FUNCTION
+// TODO You might need to change this function too.
+// Change as LITTLE as possible.
 fn main() {
     let x = Foo(1);
     let y = Foo(2);
